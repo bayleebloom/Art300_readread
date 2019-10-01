@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(55, 172, 115);
+    font-family: hwt-mardell, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+p{
+    margin: 0px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    padding: 0px;
+    color: white;
+    font-family: poleno, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 25px;
+    width: 80%;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    
+    
+}
+font-family: coniferous, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+/*Tablets*/
+
+@media only screen and (min-width: 800px) and (max-width: 1280px){
+    
+}
+
+/*Smart Phones*/
+    
+@media only screen and (max-width: 800px){
+
+}

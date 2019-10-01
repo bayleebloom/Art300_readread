@@ -1,0 +1,871 @@
+body{
+    background-color: rgb(95, 176, 224);
+    font-family: hwt-mardell, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+.title{
+    font-size: 10em;
+    line-height: 1.3em;
+    margin: 120px auto 120px auto;
+}
+h1{
+    margin: 0;
+}
+.color_box{
+    width: 100%;
+    height: 610px;
+    background-color: rgb(95, 176, 224);
+    position: relative;
+    z-index: 100;
+}
+.box_1{
+    width: 70%;
+    height: 70px;
+    margin: 0px 0px auto auto;
+    background-color: rgb(226, 192, 217);
+    position: relative;
+}
+.box_2{
+    width: 50%;
+    height: 25px;
+    margin: 0px 0px auto auto;
+    background-color: rgb(190, 189, 221);
+    position: relative;
+}
+.box_3{
+    width: 62%;
+    height: 90px;
+    margin: -48px 50px auto auto;
+    background-color: rgb(236, 191, 157);
+    position: relative;
+    font-family: ff-cocon-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: right;
+    line-height: 2.4em;
+    font-size: 3em;
+    letter-spacing: 4px;
+}
+.box_4{
+    width: 57%;
+    height: 35px;
+    margin: 0px 0px auto auto;
+    background-color: rgb(255, 239, 188);
+    position: relative;
+}
+.box_5{
+    width: 70%;
+    height: 20px;
+    margin: 0px 100px auto auto;
+    background-color: rgb(159, 190, 123);
+    position: relative;
+}
+.box_6{
+    width: 61%;
+    height: 60px;
+    margin: -48px 0px auto auto;
+    background-color: rgb(234, 143, 113);
+    position: relative;
+    font-family: ff-cocon-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: right;
+    font-size: 3em;
+    letter-spacing: 4px;
+}
+.new_1{
+    width: 45%;
+    height: 20px;
+    margin: 180px auto auto 0px;
+    background-color: rgb(205, 148, 190);
+    position: relative;
+}
+.new_2{
+    width: 55%;
+    height: 90px;
+    margin: 0px auto auto 0px;
+    background-color: rgb(236, 191, 157);
+    position: relative;
+}
+.new_3{
+    width: 60%;
+    height: 20px;
+    margin: 0px auto auto 80px;
+    background-color: rgb(188, 221, 239);
+    position: relative;
+}
+.stanza_1{
+    font-family: ff-cocon-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: right;
+    font-size: 7em;
+    letter-spacing: 4px;
+    word-spacing: 20px;
+    margin: 0px 40px auto auto;
+}
+.stanza_2{
+    font-family: ff-cocon-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: left;
+    font-size: 5em;
+    letter-spacing: 4px;
+    word-spacing: 20px;
+    margin: 200px auto auto 40px;
+}
+.turn{
+    font-size: 25em;
+    margin: 0px auto 0px auto;
+    text-align: center;
+}
+.turn_2{
+    font-size: 20em;
+    margin: 0px auto 0px auto;
+    text-align: center;
+    transform-origin: center;
+    transform: rotate(-180deg);
+}
+.turn_3{
+    font-size: 20em;
+    margin: 0px auto 0px auto;
+    text-align: center;
+}
+.turn_4{
+    font-size: 20em;
+    margin: 0px auto 0px auto;
+    text-align: center;
+    transform-origin: center;
+    transform: rotate(-180deg);
+}
+.stanza_3{
+    font-family: ff-cocon-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: left;
+    font-size: 5em;
+    letter-spacing: 4px;
+    word-spacing: 20px;
+    margin: 200px auto auto 40px;
+}
+.stanza_4{
+    font-family: ff-cocon-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: right;
+    font-size: 7em;
+    letter-spacing: 4px;
+    word-spacing: 20px;
+    margin: 300px 40px auto auto;
+}
+.fall{
+    font-size: 15em;
+    text-align: right;
+    transform-origin: right;
+    transform: rotate(90deg);
+    margin: 1100px 200px 0px auto;
+    letter-spacing: 150px;
+    color: rgb(226, 192, 217);
+}
+.stanza_5{
+    font-family: ff-cocon-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: right;
+    font-size: 7em;
+    letter-spacing: 4px;
+    word-spacing: 20px;
+    margin: -300px 40px auto auto;
+}
+.color_box_2{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(95, 176, 224);
+    position: relative;
+    z-index: 100;
+}
+.box_11{
+    width: 45%;
+    height: 20px;
+    margin: 0px auto auto 0px;
+    background-color: rgb(205, 148, 190);
+    position: relative;
+}
+.box_12{
+    width: 55%;
+    height: 90px;
+    margin: 0px auto auto 0px;
+    background-color: rgb(236, 191, 157);
+    position: relative;
+}
+.box_13{
+    width: 60%;
+    height: 20px;
+    margin: 0px auto auto 80px;
+    background-color: rgb(188, 221, 239);
+    position: relative;
+}
+.box_14{
+    width: 35%;
+    height: 30px;
+    margin: 0px auto auto 0px;
+    background-color: rgb(159, 190, 123);
+    position: relative;
+}
+.box_15{
+    width: 58%;
+    height: 40px;
+    margin: 0px auto auto 0px;
+    background-color: rgb(226, 192, 217);
+    position: relative;
+}
+/*Smart Phones*/
+
+@media only screen and (max-width: 800px){
+    body{
+        width: 800px;
+        background-color: rgb(188, 221, 239);
+        font-family: hwt-mardell, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        color: white;
+        padding: 0;
+        margin: 0;
+    }
+    .title{
+        font-size: 3em;
+        line-height: 1.3em;
+        margin: 60px auto 80px 20px;
+    }
+    h1{
+        margin: 0;
+    }
+    .color_box{
+        width: 100%;
+        height: 245px;
+        background-color: rgb(188, 221, 239);
+        position: relative;
+        z-index: 100;
+    }
+    .box_1{
+        width: 70%;
+        height: 40px;
+        margin: 0px 0px auto auto;
+        background-color: rgb(226, 192, 217);
+        position: relative;
+    }
+    .box_2{
+        width: 85%;
+        height: 20px;
+        margin: 0px 0px auto auto;
+        background-color: rgb(190, 189, 221);
+        position: relative;
+    }
+    .box_3{
+        width: 70%;
+        height: 90px;
+        margin: 0px 40px auto auto;
+        background-color: rgb(236, 191, 157);
+        position: relative;
+    }
+    .box_4{
+        width: 57%;
+        height: 30px;
+        margin: 0px 0px auto auto;
+        background-color: rgb(234, 143, 113);
+        position: relative;
+    }
+    .box_5{
+        width: 80%;
+        height: 45px;
+        margin: 0px 100px auto auto;
+        background-color: rgb(255, 239, 188);
+        position: relative;
+    }
+    .box_6{
+        width: 61%;
+        height: 20px;
+        margin: 0px 0px auto auto;
+        background-color: rgb(159, 190, 123);
+        position: relative;
+    }
+    .stanza_1{
+        font-family: ff-cocon-pro, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        text-align: right;
+        font-size: 3em;
+        letter-spacing: 4px;
+        word-spacing: 5px;
+        margin: 150px 20px auto auto;
+        line-height: .7em;
+    }
+    .color_box_1{
+        width: 100%;
+        height: 90px;
+        background-color: rgb(188, 221, 239);
+        position: relative;
+        z-index: 100;
+    }
+    .box_7{
+        width: 60%;
+        height: 20px;
+        margin: 50px auto auto 0px;
+        background-color: rgb(95, 176, 224);
+        position: relative;
+    }
+    .box_8{
+        width: 45%;
+        height: 50px;
+        margin: 0px auto auto 0px;
+        background-color: rgb(205, 148, 190);
+        position: relative;
+    }
+    .box_9{
+        width: 60%;
+        height: 20px;
+        margin: 0px auto auto 80px;
+        background-color: rgb(236, 191, 157);
+        position: relative;
+    }
+    .stanza_2{
+        font-family: ff-cocon-pro, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        text-align: left;
+        font-size: 2em;
+        letter-spacing: 4px;
+        word-spacing: 5px;
+        margin: 100px auto auto 20px;
+    }
+    .turn{
+        width: 100%;
+        height: 200px;
+        font-size: 13em;
+        margin: 0px auto 0px 30px;
+        text-align: left;
+    }
+    .turn_2{
+        width: 100%;
+        height: 600px;
+        font-size: 10em;
+        margin: 0px 0px 0px auto;
+        text-align: right;
+        transform-origin: center;
+        transform: rotate(90deg);
+    }
+    .turn_3{
+        height: 200px;
+        width: 100%;
+        font-size: 10em;
+        margin: 0px auto 0px 10px;
+        text-align: right;
+        transform-origin: center;
+        transform: rotate(-180deg);
+    }
+    .turn_4{
+        height: 200px;
+        width: 100%;
+        font-size: 10em;
+        margin: 0px 0px 0px 0px;
+        text-align: left;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        position: relative;
+    }
+    .stanza_3{
+        width: 100%;
+        height: 300px;
+        position: relative;
+        font-family: ff-cocon-pro, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        text-align: left;
+        font-size: 2em;
+        letter-spacing: 4px;
+        word-spacing: 5px;
+        margin: 900px auto auto 40px;
+    }
+    .color_box_1_1{
+        width: 100%;
+        height: 90px;
+        background-color: rgb(188, 221, 239);
+        position: relative;
+        z-index: 100;
+    }
+    .box_10{
+        width: 30%;
+        height: 20px;
+        margin: 0px 0px auto auto;
+        background-color: rgb(234, 143, 113);
+        position: relative;
+    }
+    .box_10_1{
+        width: 70%;
+        height: 50px;
+        margin: 0px 0px auto auto;
+        background-color: rgb(255, 239, 188);
+        position: relative;
+    }
+    .stanza_4{
+        height: 150px;
+        width: 95%;
+        position: relative;
+        font-family: ff-cocon-pro, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        text-align: center right;
+        font-size: 3em;
+        letter-spacing: 4px;
+        word-spacing: 5px;
+        margin: 100px 0px auto 0px;
+    }
+    .fall{
+        width: 783px;
+        font-size: 5em;
+        text-align: top right;
+        transform-origin: bottom right;
+        transform: rotate(90deg);
+        margin: 350px 100px auto auto;
+        letter-spacing: 40px;
+        font-family: ff-cocon-pro, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        line-height: .001em;
+        font-size: 6em;
+        color: white;
+    }
+    .stanza_5{
+        font-family: ff-cocon-pro, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        text-align: right;
+        font-size: 3em;
+        letter-spacing: 4px;
+        word-spacing: 20px;
+        margin: 0px 40px auto auto;
+    }
+    .color_box_2{
+        width: 100%;
+        height: 200px;
+        background-color: rgb(188, 221, 239);
+        position: relative;
+        z-index: 100;
+    }
+    .box_11{
+        width: 60%;
+        height: 80px;
+        margin: 0px auto auto 0px;
+        background-color: rgb(95, 176, 224);
+        position: relative;
+        font-family: ff-cocon-pro, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        text-align: left;
+        line-height: 1em;
+        font-size: 4em;
+        letter-spacing: 4px;
+    }
+    .box_12{
+        width: 40%;
+        height: 20px;
+        margin: 0px auto auto 40px;
+        background-color: rgb(205, 148, 190);
+        position: relative;
+    }
+    .box_13{
+        width: 70%;
+        height: 90px;
+        margin: -65px auto auto 0px;
+        background-color: rgb(236, 191, 157);
+        position: relative;
+        font-family: ff-cocon-pro, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        text-align: left;
+        line-height: 1em;
+        font-size: 4em;
+        letter-spacing: 4px;
+        word-spacing: 2.4em;
+    }
+}
+
+
+/*Tablets*/
+
+@media only screen and (min-width: 800px) and (max-width: 1280px){
+    body{
+        background-color: rgb(226, 192, 217);
+        font-family: hwt-mardell, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        color: white;
+        padding: 0;
+        margin: 0;
+        width: 1300vw;
+    }
+    .title{
+        font-size: 15em;
+        line-height: .2em;
+        margin: -700px auto 0px -100px;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    h1{
+        margin: 0;
+        float: left;
+    }
+    .color_box{
+        margin: 0px auto 0px auto;
+        width: 9%;
+        height: 1000px;
+        background-color: rgb(226, 192, 217);
+        float: left;
+    }
+    .box_1{
+        width: 90%;
+        height: 90px;
+        margin: 40px auto auto auto;
+        background-color: rgb(95, 176, 224);
+        position: relative;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .box_2{
+        width: 60%;
+        height: 30px;
+        margin: 50px auto auto 90px;
+        background-color: rgb(190, 189, 221);
+        position: relative;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .box_3{
+        width: 90%;
+        height: 80px;
+        margin: 0px auto auto 120px;
+        background-color: rgb(236, 191, 157);
+        position: relative;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .box_4{
+        width: 90%;
+        height: 30px;
+        margin: -250px auto auto 200px;
+        background-color: rgb(234, 143, 113);
+        position: relative;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .box_5{
+        width: 50%;
+        height: 45px;
+        margin: 0px auto auto 230px;
+        background-color: rgb(255, 239, 188);
+        position: relative;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .box_6{
+        width: 60%;
+        height: 20px;
+        margin: -100px auto auto 275px;
+        background-color: rgb(159, 190, 123);
+        position: relative;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .box_7{
+        width: 80%;
+        height: 50px;
+        margin: -100px auto auto 295px;
+        background-color: rgb(188, 221, 239);
+        position: relative;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .box_8{
+        width: 60%;
+        height: 30px;
+        margin: 20px auto auto 345px;
+        background-color: rgb(205, 148, 190);
+        position: relative;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .box_9{
+        width: 100%;
+        height: 15px;
+        margin: -300px auto auto 375px;
+        background-color: rgb(95, 176, 224);
+        position: relative;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .box_10{
+        width: 40%;
+        height: 50px;
+        margin: 100px auto auto 390px;
+        background-color: rgb(236, 191, 157);
+        position: relative;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .stanza_1{
+        font-family: ff-cocon-pro, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        text-align: right;
+        font-size: 5em;
+        letter-spacing: 4px;
+        word-spacing: 5px;
+        margin: 100px 50px auto 0px;
+        line-height: .6em;
+        float: left;
+    }
+    .color_box_1{
+        margin: 0px 0px 0px auto;
+        width: 3%;
+        height: 1000px;
+        background-color: rgb(226, 192, 217);
+        float: left;
+    }
+    .add_1{
+        width: 200%;
+        height: 50px;
+        margin: 0px 50px auto 0px;
+        background-color: rgb(236, 191, 157);
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .add_2{
+        width: 300%;
+        height: 20px;
+        margin: -100px auto auto 50px;
+        background-color: rgb(190, 189, 221);
+        position: relative;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .add_3{
+        width: 250%;
+        height: 50px;
+        margin: 50px auto auto 70px;
+        background-color: rgb(255, 239, 188);
+        position: relative;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .add_4{
+        width: 200%;
+        height: 30px;
+        margin: -100px auto auto 120px;
+        background-color: rgb(95, 176, 224);
+        position: relative;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .stanza_2{
+        font-family: ff-cocon-pro, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        text-align: right;
+        font-size: 4em;
+        letter-spacing: 4px;
+        line-height: .6em;
+        word-spacing: 5px;
+        margin: 650px auto auto 0px;
+        float: left;
+    }
+    .turn{
+        width: 50%;
+        height: 400px;
+        font-size: 10em;
+        margin: -250px auto 0px 30px;
+        text-align: left;
+        letter-spacing: 40px;
+        word-spacing: 10px;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .turn_2{
+        width: 50%;
+        height: 700px;
+        font-size: 10em;
+        margin: -820px 0px 0px 50px;
+        text-align: left;
+        letter-spacing: 30px;
+        word-spacing: 10px;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .turn_3{
+        height: 700px;
+        width: 50%;
+        font-size: 10em;
+        margin: -820px 0px 0px 350px;
+        text-align: left;
+        letter-spacing: 30px;
+        word-spacing: 10px;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .turn_4{
+        height: 700px;
+        width: 50%;
+        font-size: 10em;
+        margin: -820px 0px 0px 650px;
+        text-align: left;
+        letter-spacing: 30px;
+        word-spacing: 10px;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        position: relative;
+        float: left;
+    }
+    .stanza_3{
+        width: 8%;
+        height: 700px;
+        position: relative;
+        font-family: ff-cocon-pro, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        text-align: left;
+        font-size: 3em;
+        line-height: .6em;
+        letter-spacing: 4px;
+        word-spacing: 5px;
+        margin: 550px auto auto 1300px;
+        float: left;
+    }
+    .color_box_1_1{
+        margin: -200px 0px 0px auto;
+        width: 3%;
+        height: 1000px;
+        background-color: rgb(226, 192, 217);
+        float: left;
+    }
+    .add_5{
+        width: 200%;
+        height: 50px;
+        margin: 0px 50px auto 0px;
+        background-color: rgb(236, 191, 157);
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .add_6{
+        width: 300%;
+        height: 20px;
+        margin: -100px auto auto 50px;
+        background-color: rgb(190, 189, 221);
+        position: relative;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .add_7{
+        width: 250%;
+        height: 50px;
+        margin: 50px auto auto 70px;
+        background-color: rgb(255, 239, 188);
+        position: relative;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .add_8{
+        width: 200%;
+        height: 30px;
+        margin: -100px auto auto 120px;
+        background-color: rgb(95, 176, 224);
+        position: relative;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        float: left;
+    }
+    .stanza_4{
+        height: 700px;
+        width: 50%;
+        position: relative;
+        font-family: ff-cocon-pro, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        text-align: center right;
+        font-size: 5em;
+        letter-spacing: 4px;
+        word-spacing: 5px;
+        margin: -1400px 0px auto 1500px;
+        float: left;
+    }
+    .fall{
+        height: 50%;
+        width: 700px;
+        font-size: 9em;
+        transform-origin: bottom left;
+        transform: rotate(90deg);
+        margin: -1800px 0px auto 7300px;
+        letter-spacing: 50px;
+        color: white;
+        float: left;
+    }
+    .stanza_5{
+        height: 700px;
+        width: 65%;
+        font-family: ff-cocon-pro, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        text-align: right;
+        font-size: 6em;
+        letter-spacing: 4px;
+        word-spacing: 20px;
+        margin: -700px 0px auto 670px;
+        float: left;
+    }
+    .name{
+        height: 700px;
+        width: 50%;
+        position: relative;
+        font-family: ff-cocon-pro, sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        text-align: right;
+        font-size: 3em;
+        letter-spacing: 4px;
+        word-spacing: 5px;
+        line-height: .3em;
+        margin: -1400px 0px auto 3000px;
+        float: left;
+  }
+}
+
+/*Tablets*/
+
+@media only screen and (min-width: 800px) and (max-width: 1280px){
+
+/*Smart Phones*/
+
+@media only screen and (max-width: 800px){
