@@ -8,9 +8,9 @@ body{
     margin: 0;
 }
 p{
-    margin: 0px;
     margin-top: 50px;
     margin-bottom: 0px;
+    margin-left: 30px;
     padding: 0px;
     color: white;
     font-family: poleno, sans-serif;
@@ -18,30 +18,169 @@ p{
     font-style: normal;
     font-size: 20px;
     line-height: 25px;
-    width: 80%;
+    width: 60%;
     letter-spacing: 1px;
     word-spacing: 3px; 
 }
 h1{
-    margin: 0px;
-    margin-top: 50px;
+    margin-top: 5px;
     margin-bottom: 0px;
+    margin-left: 30px;
     padding: 0px;
     color: rgb(164, 224, 195);
     font-family: coniferous, sans-serif;
     font-weight: 700;
     font-style: normal;
+    font-size: 180px;
+    line-height: 200px;
+    width: 100%;
+    letter-spacing: 1px;
+    word-spacing: 3px;
 }
 h2{
-    margin: 0px;
-    margin-top: 50px;
+    margin-top: 0px;
     margin-bottom: 0px;
+    margin-left: 30px;
     padding: 0px;
     color: rgb(164, 224, 195);
     font-family: poleno, sans-serif;
-    font-weight: 200;
+    font-weight: 400;
     font-style: normal;
+    font-size: 700px;
+    line-height: 550px;
+    width: 100%;
+    letter-spacing: 1px;
+    word-spacing: 3px; 
 }
+h3:nth-of-type(1){
+    margin-top: 130px;
+    margin-bottom: 0px;
+    margin-left: 50px;
+    padding: 0px;
+    color: rgb(164, 224, 195);
+    font-family: coniferous, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 60px;
+    line-height: 100px;
+    width: 100%;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+pre{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-right: 0px;
+    float: right;
+    padding: 0px;
+    color: rgb(164, 224, 195);
+    font-family: poleno, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 50px;
+    width: 50%;
+    letter-spacing: 1px;
+    word-spacing: 3px; 
+}
+a{
+    margin-top: 80px;
+    margin-bottom: 100px;
+    margin-left: 0px;
+    padding: 0px;
+    color: rgb(164, 224, 195);
+    font-family: poleno, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 50px;
+    width: 50%;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+p:nth-of-type(1), p:nth-of-type(2), p:nth-of-type(3){
+    margin: 40px auto auto 50px;
+    width: 50%;
+    float: right;
+}
+h5{
+    position: relative;
+    margin: 600px 0px auto auto;
+    padding: 0px;
+    color: white;
+    font-family: poleno, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 100px;
+    width: 50%;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+.noindent{
+    margin-top: 80px;
+    margin-bottom: 200px;
+    margin-right: 0px;
+    float: right;
+    padding: 0px;
+    color: white;
+    font-family: poleno, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 50px;
+    width: 50%;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+h4:nth-of-type(1){
+    margin-top: 300px;
+    margin-bottom: 0px;
+    margin-left: 800px;
+    float: right;
+    padding: 0px;
+    color: rgb(164, 224, 195);
+    font-family: poleno, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 30px;
+    width: 50%;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+h4{
+    margin-top: 100px;
+    margin-left: 30%;
+    padding: 0px;
+    color: white;
+    font-family: poleno, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    line-height: 30px;
+    width: 50%;
+    letter-spacing: 1px;
+    word-spacing: 3px; 
+    clear:both;
+}
+h3{
+    margin-top: 50px;
+    margin-bottom: 0px;
+    margin-left: 30px;
+    padding: 0px;
+    color: white;
+    font-family: coniferous, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 70px;
+    line-height: 100px;
+    width: 100%;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+
+
 
 /*Tablets*/
 
