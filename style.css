@@ -303,7 +303,7 @@ h3{
     h1:after{
         content: ' ';
         width: 130px;
-        height: 101%;
+        height: 100%;
         margin-top: 30px;
         margin-bottom: 0px;
         margin-left: 79.6%;
@@ -318,7 +318,7 @@ h3{
     h1:before{
         content: ' ';
         width: 130px;
-        height: 140%;
+        height: 142.6%;
         margin-top: 0px;
         margin-bottom: 0px;
         margin-left: 90%;
@@ -416,7 +416,7 @@ h3{
     .noindent:after{
         content: ' ';
         width: 80px;
-        height: 57.3%;
+        height: 56%;
         margin-top: 400px;
         margin-bottom: 0px;
         margin-left: -418px;
@@ -909,7 +909,7 @@ h3{
     pre:last-of-type{
         margin-top: 40px;
         margin-bottom: 80px;
-        margin-left: 100px;
+        margin-left: px;
         padding: 0px;
         color: rgb(164, 224, 195);
         font-family: poleno, sans-serif;
@@ -926,5 +926,245 @@ h3{
 /*Smart Phones*/
     
 @media only screen and (max-width: 800px){
-
+    body{
+        background-color: rgb(55, 172, 115);
+        font-family: poleno, sans-serif;
+        font-weight: 200;
+        font-style: normal;
+        color: white;
+        padding: 0;
+        margin: 0;
+    }
+    p{
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 10px;
+        padding: 0px;
+        color: white;
+        font-family: poleno, sans-serif;
+        font-weight: 0;
+        font-style: normal;
+        font-size: 20px;
+        line-height: 25px;
+        width: 95%;
+        letter-spacing: 1px;
+        word-spacing: 3px; 
+    }
+    h1{
+        margin-top: 0px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        padding: 0px;
+        color: rgb(164, 224, 195);
+        font-family: coniferous, sans-serif;
+        font-weight: 200;
+        font-style: normal;
+        font-size: 140px;
+        line-height: 130px;
+        width: 100%;
+        letter-spacing: 1px;
+        word-spacing: 3px;
+    }
+    h3:nth-of-type(1):before{
+        content: ' ';
+        width: 130px;
+        height: 95.8%;
+        margin-top: 60px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        background-color: purple;
+        z-index: 100;
+        position: absolute;
+        display: block;
+        border: 2px solid rgb(54, 212, 136);
+        border-top-left-radius: 80px;
+        border-top-right-radius: 80px;
+    }
+    h3:nth-of-type(1):after{
+        content: ' ';
+        width: 130px;
+        height: 80%;
+        margin-top: 200px;
+        margin-bottom: 0px;
+        margin-left: 132px;
+        background-color: white;
+        z-index: 100;
+        position: absolute;
+        display: block;
+        border: 2px solid rgb(164, 224, 195);
+        border-top-left-radius: 80px;
+        border-top-right-radius: 80px;
+    }
+    h4:nth-of-type(1):before{
+        content: ' ';
+        width: 130px;
+        height: 86%;
+        margin-top: -1100px;
+        margin-bottom: 0px;
+        margin-left: 155px;
+        background-color: blue;
+        z-index: 100;
+        position: absolute;
+        display: block;
+        border: 2px solid rgb(164, 224, 195);
+        border-top-left-radius: 80px;
+        border-top-right-radius: 80px;
+    }
+    h2{
+        margin-top: 80px;
+        margin-bottom: 0px;
+        margin-left: 10px;
+        padding: 0px;
+        color: rgb(164, 224, 195);
+        font-family: poleno, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 500px;
+        line-height: 300px;
+        width: 100%;
+        letter-spacing: 1px;
+        word-spacing: 3px;
+    }
+    pre{
+        margin-top: 40px;
+        margin-bottom: 80px;
+        margin-right: 0px;
+        padding: 0px;
+        color: rgb(164, 224, 195);
+        font-family: poleno, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 20px;
+        line-height: 40px;
+        width: 100%;
+        letter-spacing: 1px;
+        word-spacing: 3px; 
+    }
+    a{
+        margin-top: 80px;
+        margin-bottom: 100px;
+        margin-left: 0px;
+        padding: 0px;
+        color: rgb(164, 224, 195);
+        font-family: poleno, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 20px;
+        line-height: 40px;
+        width: 100%;
+        letter-spacing: 1px;
+        word-spacing: 3px;
+    }
+    p:nth-of-type(1), p:nth-of-type(2), p:nth-of-type(3){
+        margin: 30px auto auto 10px;
+        width: 100%;
+        font-size: 18px;
+        line-height: 20px;
+        letter-spacing: 2px;
+        word-spacing: 3px;
+    }
+    h5{
+        position: relative;
+        margin: 400px 0px auto 10px;
+        padding: 0px;
+        color: white;
+        font-family: poleno, sans-serif;
+        font-weight: 50;
+        font-style: normal;
+        font-size: 30px;
+        line-height: 30px;
+        width: 100%;
+        letter-spacing: 3px;
+        word-spacing: 4px;
+    }
+    .noindent{
+        margin-top: 60px;
+        margin-bottom: 200px;
+        margin-left: 10px;
+        padding: 0px;
+        color: white;
+        font-family: poleno, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 18px;
+        line-height: 20px;
+        width: 100%;
+        letter-spacing: 1px;
+        word-spacing: 3px;
+    }
+    h4:nth-of-type(1){
+        margin-top: 1200px;
+        margin-bottom: 0px;
+        margin-left: 300px;
+        padding: 0px;
+        color: rgb(164, 224, 195);
+        font-family: poleno, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 20px;
+        line-height: 10px;
+        width: 98%;
+        letter-spacing: 1px;
+        word-spacing: 3px;
+    }
+    h4:last-of-type{
+        margin-top: 70px;
+        margin-left: 8%;
+        padding: 0px;
+        color: white;
+        font-family: poleno, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 40px;
+        line-height: 10px;
+        width: 100%;
+        letter-spacing: 1px;
+        word-spacing: 3px; 
+        clear:both;
+    }
+    h3:nth-of-type(1){
+        margin-top: 20px;
+        margin-bottom: 0px;
+        margin-left: 300px;
+        padding: 0px;
+        color: rgb(164, 224, 195);
+        font-family: coniferous, sans-serif;
+        font-weight: 200;
+        font-style: normal;
+        font-size: 60px;
+        line-height: 20px;
+        width: 100%;
+        letter-spacing: 1px;
+        word-spacing: 3px;
+    }
+    h3{
+        margin-top: 80px;
+        margin-bottom: 0px;
+        margin-left: 10px;
+        padding: 0px;
+        color: white;
+        font-family: coniferous, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 40px;
+        line-height: 20px;
+        width: 100%;
+        letter-spacing: 1px;
+        word-spacing: 3px;
+    }
+    pre:last-of-type{
+        margin-top: 40px;
+        margin-bottom: 80px;
+        margin-left: px;
+        padding: 0px;
+        color: rgb(164, 224, 195);
+        font-family: poleno, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 10px;
+        line-height: 10px;
+        width: 100%;
+        letter-spacing: 1px;
+        word-spacing: 3px; 
+    }
 }
