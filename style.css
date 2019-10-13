@@ -3,8 +3,8 @@
 @media only screen and (min-width: 1280px) and (max-width: 3000px){
 body{
     background-color: rgb(55, 172, 115);
-    font-family: poleno, sans-serif;
-    font-weight: 200;
+    font-family: laca, sans-serif;
+    font-weight: 600;
     font-style: normal;
     color: white;
     padding: 0;
@@ -13,15 +13,15 @@ body{
 p{
     margin-top: 50px;
     margin-bottom: 0px;
-    margin-left: 20px;
+    margin-left: 30px;
     padding: 0px;
     color: white;
-    font-family: poleno, sans-serif;
-    font-weight: 200;
+    font-family: laca, sans-serif;
+    font-weight: 600;
     font-style: normal;
     font-size: 20px;
     line-height: 25px;
-    width: 60%;
+    width: 50%;
     letter-spacing: 1px;
     word-spacing: 3px; 
 }
@@ -257,6 +257,9 @@ h3{
     letter-spacing: 1px;
     word-spacing: 3px;
 }
+pre:last-of-type{
+    display: none;
+}
 }
 
 
@@ -266,8 +269,8 @@ h3{
 @media only screen and (min-width: 800px) and (max-width: 1280px){
     body{
         background-color: rgb(55, 172, 115);
-        font-family: poleno, sans-serif;
-        font-weight: 200;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         color: white;
         padding: 0;
@@ -279,8 +282,8 @@ h3{
         margin-left: 18%;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -404,7 +407,7 @@ h3{
     }
     h5{
         position: relative;
-        margin: 400px 0px auto auto;
+        margin: 200px 0px auto auto;
         padding: 0px;
         color: white;
         font-family: poleno, sans-serif;
@@ -528,8 +531,8 @@ h3{
         margin-left: 20px;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -563,8 +566,8 @@ h3{
         margin-left: 18%;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -589,8 +592,8 @@ h3{
         margin-left: 20px;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -615,8 +618,8 @@ h3{
         margin-left: 18%;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -630,8 +633,8 @@ h3{
         margin-left: 20px;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -645,8 +648,8 @@ h3{
         margin-left: 18%;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -660,8 +663,8 @@ h3{
         margin-left: 20px;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -675,8 +678,8 @@ h3{
         margin-left: 18%;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -690,8 +693,8 @@ h3{
         margin-left: 20px;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -705,8 +708,8 @@ h3{
         margin-left: 18%;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -720,8 +723,8 @@ h3{
         margin-left: 20px;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -735,8 +738,8 @@ h3{
         margin-left: 18%;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -750,8 +753,8 @@ h3{
         margin-left: 20px;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -765,8 +768,8 @@ h3{
         margin-left: 18%;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -780,8 +783,8 @@ h3{
         margin-left: 20px;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -795,8 +798,8 @@ h3{
         margin-left: 18%;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -810,8 +813,8 @@ h3{
         margin-left: 20px;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -825,8 +828,8 @@ h3{
         margin-left: 18%;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -840,8 +843,8 @@ h3{
         margin-left: 20px;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -855,8 +858,8 @@ h3{
         margin-left: 18%;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -870,8 +873,8 @@ h3{
         margin-left: 20px;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -885,8 +888,8 @@ h3{
         margin-left: 18%;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -900,8 +903,8 @@ h3{
         margin-left: 20px;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 600;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -910,19 +913,7 @@ h3{
         word-spacing: 3px;
     }
     pre:last-of-type{
-        margin-top: 40px;
-        margin-bottom: 80px;
-        margin-left: px;
-        padding: 0px;
-        color: rgb(164, 224, 195);
-        font-family: poleno, sans-serif;
-        font-weight: 400;
-        font-style: normal;
-        font-size: 10px;
-        line-height: 10px;
-        width: 100%;
-        letter-spacing: 1px;
-        word-spacing: 3px; 
+        display: none;
     }
 }
 
@@ -941,11 +932,12 @@ h3{
     p{
         margin-top: 20px;
         margin-bottom: 0px;
-        margin-left: 10px;
+        margin-left: 20px;
+        margin-right: 12px;
         padding: 0px;
         color: white;
-        font-family: poleno, sans-serif;
-        font-weight: 0;
+        font-family: laca, sans-serif;
+        font-weight: 400;
         font-style: normal;
         font-size: 20px;
         line-height: 25px;
@@ -975,7 +967,7 @@ h3{
         margin-top: 60px;
         margin-bottom: 0px;
         margin-left: -30px;
-        background-color: purple;
+        background-color:rgb(54, 212, 136);
         z-index: 100;
         position: absolute;
         display: block;
@@ -990,7 +982,7 @@ h3{
         margin-top: 200px;
         margin-bottom: 0px;
         margin-left: 100px;
-        background-color: white;
+        background-color: rgb(164, 224, 195);
         z-index: 100;
         position: absolute;
         display: block;
@@ -1004,8 +996,8 @@ h3{
         height: 86%;
         margin-top: -1100px;
         margin-bottom: 0px;
-        margin-left: -160px;
-        background-color: blue;
+        margin-left: 130px;
+        background-color: rgb(164, 224, 195);
         z-index: 100;
         position: absolute;
         display: block;
@@ -1059,7 +1051,7 @@ h3{
         word-spacing: 3px;
     }
     p:nth-of-type(1), p:nth-of-type(2), p:nth-of-type(3){
-        margin: 30px auto auto 10px;
+        margin: 30px auto auto 20px;
         width: 95%;
         font-size: 18px;
         line-height: 20px;
@@ -1068,7 +1060,7 @@ h3{
     }
     h5{
         position: relative;
-        margin: 400px 0px auto 10px;
+        margin: 400px 0px auto 20px;
         padding: 0px;
         color: white;
         font-family: poleno, sans-serif;
@@ -1083,7 +1075,7 @@ h3{
     .noindent{
         margin-top: 60px;
         margin-bottom: 200px;
-        margin-left: 10px;
+        margin-left: 20px;
         padding: 0px;
         color: white;
         font-family: poleno, sans-serif;
@@ -1147,7 +1139,7 @@ h3{
     h3{
         margin-top: 80px;
         margin-bottom: 0px;
-        margin-left: 10px;
+        margin-left: 20px;
         padding: 0px;
         color: white;
         font-family: coniferous, sans-serif;
@@ -1160,18 +1152,6 @@ h3{
         word-spacing: 3px;
     }
     pre:last-of-type{
-        margin-top: 40px;
-        margin-bottom: 80px;
-        margin-left: px;
-        padding: 0px;
-        color: rgb(164, 224, 195);
-        font-family: poleno, sans-serif;
-        font-weight: 400;
-        font-style: normal;
-        font-size: 10px;
-        line-height: 10px;
-        width: 100%;
-        letter-spacing: 1px;
-        word-spacing: 3px; 
+        display: none;
     }
 }
